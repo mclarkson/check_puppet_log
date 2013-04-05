@@ -1,0 +1,9 @@
+Check Puppet Log
+----------------
+
+Checks /var/log/messages for general puppet-agent problems. The status will not return to 'green' until the problem is fixed.
+
+This plugin checks /var/log/messages for various errors output by the puppet agent. Sometimes this plugin will not show that an error has cleared until the puppet agent has run twice.
+
+For more info see http://exchange.nagios.org/directory/Plugins/Software/check_puppet_log/details[nagios exchange].
+
