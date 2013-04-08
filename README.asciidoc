@@ -17,7 +17,7 @@ For more info see http://exchange.nagios.org/directory/Plugins/Software/check_pu
 Example:
 
 ----
-wget https://raw.github.com/mclarkson/check_puppet_log/master/check_puppet_log
+wget https://raw.github.com/mclarkson/check_puppet_log/master/check_puppet_log.sh
 chmod +x check_switch_module
 mv check_switch_module /usr/lib64/nagios/plugins/
 ----
