@@ -12,3 +12,12 @@ This plugin checks /var/log/messages for various errors output by the puppet age
 
 For more info see http://exchange.nagios.org/directory/Plugins/Software/check_puppet_log/details[nagios exchange].
 
+*INSTALL*
+
+Example:
+
+----
+wget https://raw.github.com/mclarkson/check_puppet_log/master/check_puppet_log
+chmod +x check_switch_module
+mv check_switch_module /usr/lib64/nagios/plugins/
+----
