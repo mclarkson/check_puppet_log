@@ -1,5 +1,5 @@
 ++++
-<img src="http://www.smorg.co.uk/images/puppet_log.png"
+<img src="http://nagrestconf.smorg.co.uk/images/ext/puppet_log.png"
 alt="Nagios GUI Screenshot" style="float:none" />
 ++++
 
